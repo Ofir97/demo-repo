@@ -2,8 +2,6 @@
 
 Some text.
 
-## Subheader
 
-Watch tutorials on YouTube.
 
     
